@@ -18,5 +18,7 @@ proyectos y mis intereses.
 ## Proyectos
 
 ## Intereses
+Calidad de trabajo
+Avanze en la profesión
 
 -->
