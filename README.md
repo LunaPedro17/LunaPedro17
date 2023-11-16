@@ -6,6 +6,7 @@ Bienvenido a mi repositorio personal donde podrás observar los proyectos indivi
 
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
+* [Lenguajes](#lenguajes)
 * [Intereses](#intereses)
 
 
