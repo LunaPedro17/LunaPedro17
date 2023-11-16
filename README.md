@@ -1,7 +1,6 @@
-# Respositorios de Proyectos Personal
+<h1 align="center">Hola, soy Pedro</h1>
 
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+Bienvenido a mi repositorio personal donde podrás observar los proyectos individuales y grupales que he desarrollado como profesional
 
 ## Contenido
 
